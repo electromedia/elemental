@@ -1,3 +1,3 @@
-elemental
+github.io
 =========
-This repository is to test html, css and jquery files 
+The clone used for testing pages
