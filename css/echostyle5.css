@@ -467,11 +467,6 @@ font-size:18px !important;
     top:30px;
     right: -86%;
     }
-.featurette-image
-    {
-    padding-left: 0px;
-    
-    }
 }
 
 /** SMART PHONES **/
@@ -524,19 +519,11 @@ font-size:18px !important;
         height: 100vh;
     } **/
     
-    .catalog-header
-    {
-
-    }
-}
-
-
 
 /** 600 **/
 
 @media all and (max-width: 600px) 
 {
-
    
     
 }
@@ -672,11 +659,6 @@ display: none;
         height: 180px;
        
     } **/
-    .catalog-header
-    {
-        display: ;
-    }
-
 
 
 }
