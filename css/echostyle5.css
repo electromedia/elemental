@@ -74,7 +74,8 @@ p a:hover{
     background-position: 50% 50%;
     height: 100%;
     width: 100%;
-    margin-top: -50%;
+    margin: auto;
+    bottom: 80px;
     font-size: 60px;
     text-align: center;
     color: #ec2327;
@@ -475,7 +476,6 @@ font-size:18px !important;
     and (min-device-width: 320px) 
     and (max-width: 480px)
 { 
-
     .navlogo {
         background-image: url("../img/ee-logo.png");
         background-repeat: no-repeat;
@@ -491,8 +491,6 @@ font-size:18px !important;
     {
         display: none;
     }
-    /** thumbnails **/
-
     .thumbnail{
         width: 100%;
         height: 100%;
@@ -507,11 +505,6 @@ font-size:18px !important;
         opacity: 1;
         border: 0px;
     }
-    .clear-logo h1
-    {
-       display:;
-    }
-
  /**   .biglogo
     {
         background-position: 50% 50%;
@@ -524,27 +517,14 @@ font-size:18px !important;
 
 @media all and (max-width: 600px) 
 {
-   
-    
+    /** STYLES **/
 }
 
 /** NAV COLLAPSE BREAKPOINT **/
 
 @media all and (max-width: 760px)
 {
-
-/**.top-div
-    {
-    display: block;
-    }
-    section.module.content
-    {
-    height: 100%;
-    }  **/
-    .clear-logo h1{
-        display: ;
-
-    }
+    /** STYLES **/
 }
 
 
@@ -552,7 +532,7 @@ font-size:18px !important;
 
 @media all and (min-width: 960px) 
 {    
-
+    /** STYLES **/
 }
 
 /**************** 
@@ -564,7 +544,7 @@ font-size:18px !important;
     and (max-device-width : 1024px) 
     and (-webkit-min-device-pixel-ratio: 2)
 {   
-
+    /** STYLES **/
 } 
 
 /**************** 
@@ -588,7 +568,7 @@ font-size:18px !important;
     and (max-device-width : 1024px) 
     and (orientation : landscape)
 {    
-
+    /** STYLES **/
 }
 
 /**************** 
@@ -609,10 +589,7 @@ display: none;
 /*-- iPhone 4, 4S, iPod Touch 4Gen--*/
 @media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width:960px) 
 {
-   /** section.module.parallax 
-    {
-        background-size: cover;
-    }  **/      
+
 }
 
 /*-- iPhone 5, iPod Touch 5Gen--*/
@@ -627,8 +604,6 @@ display: none;
     {
         display: none;
     }
-    /** thumbnails **/
-
     .thumbnail{
         width: 100%;
         height: 100%;
@@ -643,24 +618,12 @@ display: none;
         opacity: 1;
         border: 0px;
     }
-    .clear-logo h1
-    {
-        
-    }
+
     .x-bttn
     {
         display: none;
     }
    
-    /**.biglogo
-    {
-        background-position: 50% 50%;
-        top:10px;
-        height: 180px;
-       
-    } **/
-
-
 }
 
 /** END **/
