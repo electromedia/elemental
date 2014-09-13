@@ -88,7 +88,7 @@ p a:hover{
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: 100%;
-    width: 100%;
+    width: auto;
     margin:auto;
     height: 300px;    
     z-index: 333;
@@ -199,29 +199,6 @@ p a:hover{
     opacity: 0.8;
     cursor:pointer;
 }
-
-
-/**.side-links-2 {
-
-    width: 10; 
-    height: 40px;
-    font-size: 20px;
-    position:fixed;
-    bottom: 1px;
-    left: 0px;
-    z-index:5555;
-    
-
-    padding-left: 60px;
-
-}
-
-.side-links-2 li a:hover{
-
-
-    opacity: 0.8;
-    cursor:pointer;
-}**/
 
 /*******************************
 ** FONT AWESOME **
