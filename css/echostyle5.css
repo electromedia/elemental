@@ -71,17 +71,25 @@ p a:hover{
 }
 
 .clear-logo h1{
-    background-position: 50% 50%;
-    height: 100%;
-    width: 100%;
+    font-size: 50px;
+    top:20px;
+    margin:auto;
+    width: auto;
+    z-index: 222;
+    position: relative;
+    text-align: center;
+    color: #ec2327;
+    /**background-position: 50% 50%;
+    height: auto;
+    width: auto;
     margin: auto;
     bottom: 80px;
-    font-size: 60px;
+    font-size: 50px;
     text-align: center;
     color: #ec2327;
     border:none; 
     position:relative;
-
+**/
 } 
 
 .biglogo {
@@ -458,9 +466,11 @@ font-size:18px !important;
 @media only screen 
     and (max-width: 400px)
 {
-    .clear-logo h1
+    .biglogo
     {
-        display:;
+    margin-top: 10%;
+    width: 100%;
+    height: 200px;
     }
 
     .x-bttn
