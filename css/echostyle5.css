@@ -408,38 +408,12 @@ section.module.parallax-4 {
     position: relative;
 }
 
-section.module.parallax-5 {
-    background-image: url(../img/5.jpg);
-    background-size:100%;
-    background-position: 50% 50%;
-    position: relative;
-}
 
-section.module.parallax-6 {
-    background-image: url(../img/6.jpg);
-    background-size:cover;
-    background-position: 50% 50%;
-    position: relative;
-}
-
-section.module.parallax-7 {
-    background-image: url(../img/7.jpg);
-    background-size:cover;
-    background-position: 50% 50%;
-    position: relative;
-}
-
-section.module.parallax-8 {
-    background-image: url(../img/8.jpg);
-    background-size:cover;
-    background-position: 50% 50%;
-    position: relative;
-}
 
 .last-module
 {
-    padding-top: 30vh;
-    height: 100vh;
+    padding-top: 30;
+    height: 100;
 }
 /****FOOTER ***/
 
