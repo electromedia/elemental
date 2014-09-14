@@ -293,10 +293,16 @@ BOTTOM ROWS
                    }
                });
            });
-
-           $("a").click(function(evn){
+</script>
+        <script>  
+        $("a").click(function(evn){
                evn.preventDefault();
                $('html,body').scrollTo(this.hash, this.hash); 
            });</script>
+        <script>
+        $(document).bind('touchmove', function(e) {
+        e.preventDefault();
+        });
+        </script>
     </body>
 </html>
