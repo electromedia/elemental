@@ -99,7 +99,6 @@ p a:hover{
     background-size: 100%;
     width: auto;
     margin:auto;
-    top:-50px;
     height: 500px;    
     z-index: 333;
     position: relative;
@@ -255,7 +254,7 @@ p a:hover{
 .featurette:last-child
 {
 margin-bottom: 200px;
-}
+} 
 .featurette
     {
     background-color: #1a1a1a;
@@ -304,7 +303,7 @@ margin-bottom: 200px;
 .catalog-header
 {
     margin-top: 100px;
-    margin-bottom:500px;
+    margin-bottom:400px;
     height: 700px;
     z-index: 6666;
 
