@@ -127,13 +127,13 @@ p a:hover{
 .navbar .nav li a:hover {
     color: #ec2327;
     font-family: 'bebas-neue', sans-serif !important;
-    font-size: 28px;
+    font-size: 24px;
     -webkit-font-smoothing: antialiased;
 }
 .navbar .nav li {
     color: #ec2327; 
     font-family: 'bebas-neue', sans-serif !important;
-    font-size: 28px;
+    font-size: 24px;
     -webkit-font-smoothing: antialiased;
 
 }
