@@ -61,12 +61,12 @@ text-decoration: none;
 }
 
 .sb-slidebar a {
-    color: #5bc0de;
+    color: #019875;
     text-decoration: none;
 }
 
 .sb-slidebar a:hover {
-    color: #5bc0de; /* Link hover colour. */
+    color: #019875; /* Link hover colour. */
     text-decoration: underline;
 }
 
@@ -77,7 +77,7 @@ text-decoration: none;
     list-style-type: none;
     font-weight: 300;
     font-size: 20px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
     -webkit-font-smoothing: antialiased;
 }
 
