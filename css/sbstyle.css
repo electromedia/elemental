@@ -40,7 +40,7 @@ font-size: 28px;
 a, a:link, a:active, a:visited, a:hover
 {
 color: #000;
-font-weight: 300;
+font-weight: 100;
 text-decoration: none;
 }
 
@@ -76,8 +76,8 @@ text-decoration: none;
     margin: 0;
     list-style-type: none;
     font-weight: 300;
-    font-size: 28px;
-    font-family: 'Teko', sans-serif;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
 
 }
 
